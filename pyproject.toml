@@ -9,7 +9,7 @@ authors = [{ name = "maxblan", email = "stu222782@mail.uni-kiel.de" }]
 description = "This is the package for the Software-Challenge Germany 2024. This Season the game will be 'Mississippi Queen'."
 readme = "README.md"
 requires-python = ">=3.10"
-dependencies = ["xsdata==22.9"]
+dependencies = ["xsdata==24.3.1"]
 classifiers = [
   "License :: OSI Approved :: MIT License",
   "Operating System :: MacOS",
