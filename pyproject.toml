@@ -9,7 +9,7 @@ authors = [{ name = "maxblan", email = "stu222782@mail.uni-kiel.de" }]
 description = "Dieses Paket ist für die Software-Challenge Germany 2025, bei der in dieser Saison das Spiel 'Hase und Igel' im Mittelpunkt steht."
 readme = "README.md"
 requires-python = ">=3.10"
-dependencies = ["xsdata==22.9"]
+dependencies = ["xsdata==24.6.1"]
 classifiers = [
   "License :: OSI Approved :: MIT License",
   "Operating System :: MacOS",
